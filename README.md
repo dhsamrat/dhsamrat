@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./githubbanner.png" alt="Delowar Hossain Samrat" width="100%">
 </p>
-## Hi👋, I'm Delowar Hossain Samrat
+## Hi👋, I'm Delowar Hossain Samrat,
 
 - 🔭 I’m currently working on Web Development Project
 - 🌱 I’m currently learning Full Stack Web development
