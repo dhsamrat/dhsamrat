@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
+  <img src="./githubbanner.png" alt="Delowar Hossain Samrat" width="100%">
 </p>
 ## Hi there 👋
 
