@@ -2,6 +2,12 @@
   <img src="./githubbanner.png" alt="Delowar Hossain Samrat" width="100%">
 </p>
 ## Hi👋, I'm Delowar Hossain Samrat,
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=700&height=50&lines=Frontend+Developer;React+%26+Node.js+Developer;AI+%26+Machine+Learning+Enthusiast;Passionate+About+Software+Engineering"
+    alt="Typing SVG"
+  />
+</p>
 
 - 🔭 I’m currently working on Web Development Project
 - 🌱 I’m currently learning Full Stack Web development
